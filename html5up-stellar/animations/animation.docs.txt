@@ -1,0 +1,19 @@
+
+This is a css library that contains a list of animation names from the animations used in css.
+In order to use any of the library animations, you need to assign the class name of the wanted animation to the certain element.
+
+Animations:
+1. pulsate - gives a pulsating effect when hovered over (it constantly expands and decrease in a small time interval).
+2. grow - when you hover over the element, it increases the size of the element, and when you move the mouse away it gradually turns back to its original state.
+3. underline - As simple as the name explains, when the element is hovered it underlines it.
+4. grow-rotate - As the element grows it rotates for 45deg, making a great visual effect.
+
+Example of how to use the class animations:
+
+<span class="grow"><h1>Stellar</h1</span>
+
+
+
+
+
+
